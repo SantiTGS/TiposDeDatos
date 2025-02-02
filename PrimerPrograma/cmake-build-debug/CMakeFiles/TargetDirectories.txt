@@ -1,3 +1,0 @@
-C:/Users/57318/OneDrive/Escritorio/PrimerPrograma/cmake-build-debug/CMakeFiles/PrimerPrograma.dir
-C:/Users/57318/OneDrive/Escritorio/PrimerPrograma/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/57318/OneDrive/Escritorio/PrimerPrograma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
