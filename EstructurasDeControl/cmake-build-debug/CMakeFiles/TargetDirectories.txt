@@ -1,7 +1,0 @@
-C:/Users/57318/OneDrive/Escritorio/EstructurasDeControl/cmake-build-debug/CMakeFiles/EstructurasDeControl.dir
-C:/Users/57318/OneDrive/Escritorio/EstructurasDeControl/cmake-build-debug/CMakeFiles/verificaPositivo.dir
-C:/Users/57318/OneDrive/Escritorio/EstructurasDeControl/cmake-build-debug/CMakeFiles/verificaAprobado.dir
-C:/Users/57318/OneDrive/Escritorio/EstructurasDeControl/cmake-build-debug/CMakeFiles/verificaCandidato.dir
-C:/Users/57318/OneDrive/Escritorio/EstructurasDeControl/cmake-build-debug/CMakeFiles/evaluacionCalificacion.dir
-C:/Users/57318/OneDrive/Escritorio/EstructurasDeControl/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/57318/OneDrive/Escritorio/EstructurasDeControl/cmake-build-debug/CMakeFiles/rebuild_cache.dir

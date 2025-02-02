@@ -1,6 +1,0 @@
-C:/Users/57318/OneDrive/Escritorio/TiposDeDatos/cmake-build-debug/CMakeFiles/TiposDeDatos.dir
-C:/Users/57318/OneDrive/Escritorio/TiposDeDatos/cmake-build-debug/CMakeFiles/conversionTipos.dir
-C:/Users/57318/OneDrive/Escritorio/TiposDeDatos/cmake-build-debug/CMakeFiles/conversionExplicita.dir
-C:/Users/57318/OneDrive/Escritorio/TiposDeDatos/cmake-build-debug/CMakeFiles/usoDeConstantes.dir
-C:/Users/57318/OneDrive/Escritorio/TiposDeDatos/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/57318/OneDrive/Escritorio/TiposDeDatos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
