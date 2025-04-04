@@ -1,0 +1,26 @@
+{
+    "clientes": [
+        {
+            "direccion": "cra100",
+            "id": 100,
+            "nombre": "pepe"
+        }
+    ],
+    "cuentas": [
+        {
+            "idCliente": 100,
+            "numero": 101,
+            "saldo": 210,
+            "tasaInteres": 0.05,
+            "tipo": "ahorros"
+        },
+        {
+            "Limite Sobregiro: ": 500000,
+            "idCliente": 200,
+            "numero": 102,
+            "saldo": 500,
+            "tipo": "Corriente"
+        }
+    ],
+    "nombre": "Banco Javeriano"
+}

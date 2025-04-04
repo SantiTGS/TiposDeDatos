@@ -1,0 +1,16 @@
+//
+// Created by 57318 on 28/03/2025.
+//
+
+#ifndef CLIENTE_H
+#define CLIENTE_H
+
+
+
+class Cliente {
+
+};
+
+
+
+#endif //CLIENTE_H
